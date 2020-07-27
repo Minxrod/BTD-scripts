@@ -1,6 +1,5 @@
 import pynput.keyboard as k
 import pynput.mouse as m
-from PIL import ImageGrab, Image
 import time
 
 # Used:
