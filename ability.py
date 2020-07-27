@@ -63,3 +63,5 @@ def on_press(key):
 	
 with k.Listener(on_press=on_press) as l:
 	l.join()
+	
+print("Done.")
